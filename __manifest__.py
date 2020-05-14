@@ -24,5 +24,5 @@ For detailed example of REST API refer https://ajepe.github.io/restful-api-for-o
     'images': ['static/description/main_screenshot.png'],
     'license': 'LGPL-3',
     'installable': True,
-    'auto_install': False,
+    'auto_install': True,
 }
